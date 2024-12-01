@@ -7,7 +7,7 @@ Web/Mobile Developer
 -------------
 
 * ✉️  You can contact me at [shaymabahi330@gmail.com](mailto:shaymabahi330@gmail.com)
-* 🧠  I'm learning React.Js , Node.Js
+* 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on any project
 
 <a href="https://www.github.com/chaimabahi" target="_blank" rel="noreferrer"><img
